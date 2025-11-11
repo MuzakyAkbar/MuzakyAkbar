@@ -66,13 +66,6 @@
 
 ---
 
-### 🧩 Featured Projects  
-
-- ⚡ [**LearnHidroponics App**](https://github.com/MuzakyAkbar/LearnHidroponics-App) – Markerless AR Hydroponic Simulation using Unity + Vuforia  
-- 🌐 [**IoT Monitoring System**](https://github.com/MuzakyAkbar/IoT-Monitoring-System) – Real-time data visualization backend with Node.js and Supabase  
-- 📈 [**Energy Visualization Dashboard**](https://github.com/MuzakyAkbar/Energy-Dashboard) – Smart Energy Analytics using Isolation Forest  
-
----
 
 ### 🏆 GitHub Achievements  
 <p align="center">
@@ -84,13 +77,13 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/muzakyakbar" target="_blank">
+  <a href="https://linkedin.com/in/muhamad-akbar-muzakynur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/muzaky.akbar" target="_blank">
+  <a href="https://instagram.com/akbarr.muzaky" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:muzakyakbar@gmail.com">
+  <a href="mailto:muzakynurmuhamadakbar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
