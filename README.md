@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">🚀 Hi, I'm Muzaky Akbar</h1>
+<h1 align="center">🚀 Hi, I'm Muhamad Akbar Muzakynur</h1>
 <h3 align="center">Front-end Developer · IoT & Real-Time Monitoring Enthusiast</h3>
 
 <p align="center">
