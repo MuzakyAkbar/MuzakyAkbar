@@ -1,123 +1,108 @@
 <div align="center">
 
-```
-                                                          ╔══════════════════════════════════════════════════════════════╗
-                                                          ║                                                              ║
-                                                          ║                   MUHAMAD AKBAR MUZAKYNUR                    ║
-                                                          ║                                                              ║
-                                                          ╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Muhamad%20Akbar%20Muzakynur&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Front-end%20Developer%20%C2%B7%20IoT%20%26%20Real-Time%20Monitoring%20Enthusiast&descSize=14&descAlignY=78&descColor=a0a8c0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9A3&center=true&vCenter=true&width=650&lines=Full-Stack+%26+IoT+Developer+%F0%9F%94%8C;Real-Time+Systems+%7C+Data+Visualization;Building+Smart+Systems+from+Hardware+to+Cloud+%E2%9A%A1)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Coding+for+Data%2C+IoT%2C+and+Innovation.;Building+Smart+Systems+with+Real-Time+Visualization.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=MuzakyAkbar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&title_color=00D9A3&icon_color=00D9A3&text_color=ffffff" />
-
-### 👾 About Me
+### About Me
 
 ```yaml
-name    : Muhamad Akbar Muzakynur
-role    : Front-end Developer · IoT Engineer
-focus   : Real-Time Monitoring · Anomaly Detection
-status  : 🟢 Building & Learning
+role     : Front-end Developer · IoT & Real-Time Monitoring Enthusiast
+research : Sistem Monitoring Listrik Sport Centre Tangerang
+           - Real-Time Visualization
+           - Isolation Forest Algorithm
+passion  : Back-end Development · Data Processing · IoT Systems
+stack    : Node.js · Express · Supabase · Unity AR · MQTT
+building : Systems that connect hardware + software seamlessly
+hobbies  : AR/VR · Unity · Creative Tech
+fun_fact : I debug better after midnight
 ```
 
-- 🎓 **Researcher** — *Electricity Monitoring System for Sport Centre Tangerang* using Real-Time Visualization & Isolation Forest Algorithm
-- ⚡ Bridges the gap between **hardware & software**
-- 🧠 Interested in **IoT**, **MQTT**, **Data Processing**, and **AR/VR**
-- 🌙 Peak performance: after midnight ☕
-
-<br clear="right"/>
-
 ---
 
-### 🛠 Tech Stack
+### GitHub Analytics
 
 <div align="center">
 
-**Languages**
+<a href="https://github.com/MuzakyAkbar">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuzakyAkbar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=a0a8c0&ring_color=7DF9FF"/>
+</a>
+<a href="https://github.com/MuzakyAkbar">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MuzakyAkbar&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=7DF9FF&ring=7DF9FF&fire=ff6b6b&currStreakLabel=7DF9FF&sideLabels=a0a8c0&dates=a0a8c0"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<br/><br/>
 
-**Frontend & Frameworks**
+<a href="https://github.com/MuzakyAkbar">
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzakyAkbar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7DF9FF&text_color=a0a8c0"/>
+</a>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuzakyAkbar&bg_color=0d1117&color=7DF9FF&line=7DF9FF&point=ffffff&area=true&area_color=7DF9FF&hide_border=true&radius=8" width="95%"/>
+
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-
-**Data & Cloud**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### Tools & Platforms
 
 <div align="center">
 
-<a href="https://github.com/MuzakyAkbar">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuzakyAkbar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&title_color=00D9A3&icon_color=00D9A3&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/MuzakyAkbar">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=MuzakyAkbar&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&stroke=00D9A3&ring=00D9A3&fire=FF6B6B&currStreakLabel=00D9A3"/>
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzakyAkbar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00D9A3&text_color=c9d1d9" height="150"/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-### 🏆 Achievements
+### GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuzakyAkbar&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MuzakyAkbar&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7"/>
 </div>
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuzakyAkbar&bg_color=0d1117&color=00D9A3&line=00D9A3&point=ffffff&area=true&hide_border=true&radius=12" width="100%"/>
-</div>
-
----
-
-### 🌐 Connect With Me
+### Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-akbar-muzakynur)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akbarr.muzaky)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzakynurmuhamadakbar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-akbar-muzakynur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/akbarr.muzaky)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muzakynurmuhamadakbar@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuzakyAkbar&label=Profile+Views&color=00D9A3&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MuzakyAkbar&label=Profile+Views&color=7DF9FF&style=flat-square)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=0" width="100%"/>
-
-> *"The best way to predict the future is to build it."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=%22Keep+learning%2C+keep+building%2C+keep+pushing+forward.%22&fontSize=12&fontColor=a0a8c0&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
