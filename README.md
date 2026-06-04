@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║           MUHAMAD AKBAR MUZAKYNUR                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                                                          ╔══════════════════════════════════════════════════════════════╗
+                                                          ║                                                              ║
+                                                          ║                   MUHAMAD AKBAR MUZAKYNUR                    ║
+                                                          ║                                                              ║
+                                                          ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9A3&center=true&vCenter=true&width=650&lines=Full-Stack+%26+IoT+Developer+%F0%9F%94%8C;Real-Time+Systems+%7C+Data+Visualization;Building+Smart+Systems+from+Hardware+to+Cloud+%E2%9A%A1)](https://git.io/typing-svg)
